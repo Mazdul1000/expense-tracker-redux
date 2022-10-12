@@ -1,0 +1,16 @@
+{
+  "transactions": [
+    {
+      "name": "Emergency",
+      "type": "income",
+      "amount": 4000,
+      "id": 1
+    },
+    {
+      "name": "Special Event",
+      "type": "income",
+      "amount": 1999,
+      "id": 2
+    }
+  ]
+}
